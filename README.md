@@ -1,6 +1,6 @@
-# Live SOC and Honeynet in Azure (Live Traffic)
+# Azure SOC & Honeynet: Live Attack Detection & Remediation
 
-> A Microsoft Azure honeynet deployment used to simulate real-world attack traffic, ingest logs into a SIEM, and measure the effectiveness of security controls through before and after metrics.
+> A hands-on security operations lab that deploys a honeynet in Azure exposed to live attack traffic, monitors it with Microsoft Sentinel, then hardens the environment and measures the reduction in security incidents.
 
 ---
 
